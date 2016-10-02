@@ -10,4 +10,8 @@ The topics covered include:
 - Feature selection & Lasso
 - Nearest neighbor & kernel regression
 
-You will also become familiar with and implement fundamental techniques that are core to all of machine learning, beyond regression, such as cross validation, bias-variance tradeoff, gradient descent and coordinate descent.
+also some fundamental techniques that are core to all of machine learning, beyond regression, such as:
+- Cross validation
+- Bias-variance tradeoff
+- Gradient descent
+- Coordinate descent.
